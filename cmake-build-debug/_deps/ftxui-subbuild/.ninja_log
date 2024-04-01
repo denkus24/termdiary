@@ -1,0 +1,21 @@
+# ninja log v5
+6151	6159	1711365264339484146	/home/denys/CLionProjects/diary/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build	d889752deee635e7
+6175	6186	1711365264366154275	/home/denys/CLionProjects/diary/cmake-build-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate-complete	3b0a503c86575e44
+6	6028	1711365264209467267	/home/denys/CLionProjects/diary/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download	a3b0cccf5b2213b1
+6	6028	1711365264209467267	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download	a3b0cccf5b2213b1
+6167	6175	1711365264356152977	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test	e81fa321d3008a86
+6167	6175	1711365264356152977	/home/denys/CLionProjects/diary/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test	e81fa321d3008a86
+6175	6186	1711365264366154275	CMakeFiles/ftxui-populate-complete	3b0a503c86575e44
+0	6	1711365258185384319	/home/denys/CLionProjects/diary/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir	2bbde3d052e70b89
+6143	6151	1711365264332816614	/home/denys/CLionProjects/diary/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure	68dd0cfda8bb190d
+6028	6135	1711365264316147783	/home/denys/CLionProjects/diary/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update_disconnected	24ba3b610a0c89b0
+6143	6151	1711365264332816614	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure	68dd0cfda8bb190d
+0	6	1711365258185384319	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir	2bbde3d052e70b89
+6159	6167	1711365264349485445	/home/denys/CLionProjects/diary/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install	c5555866f7e6ff9e
+6135	6143	1711365264322815316	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch_disconnected	a5316ff796e8460
+6028	6135	1711365264316147783	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update_disconnected	24ba3b610a0c89b0
+6175	6186	1711365264366154275	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-done	3b0a503c86575e44
+6135	6143	1711365264322815316	/home/denys/CLionProjects/diary/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch_disconnected	a5316ff796e8460
+6151	6159	1711365264339484146	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build	d889752deee635e7
+6175	6186	1711365264366154275	/home/denys/CLionProjects/diary/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-done	3b0a503c86575e44
+6159	6167	1711365264349485445	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install	c5555866f7e6ff9e

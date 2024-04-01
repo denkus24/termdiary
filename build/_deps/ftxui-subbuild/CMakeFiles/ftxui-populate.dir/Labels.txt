@@ -1,0 +1,14 @@
+# Target labels
+ ftxui-populate
+# Source files and their labels
+/home/denys/CLionProjects/diary/build/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate
+/home/denys/CLionProjects/diary/build/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.rule
+/home/denys/CLionProjects/diary/build/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate-complete.rule
+/home/denys/CLionProjects/diary/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build.rule
+/home/denys/CLionProjects/diary/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure.rule
+/home/denys/CLionProjects/diary/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download.rule
+/home/denys/CLionProjects/diary/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install.rule
+/home/denys/CLionProjects/diary/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir.rule
+/home/denys/CLionProjects/diary/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch_disconnected.rule
+/home/denys/CLionProjects/diary/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test.rule
+/home/denys/CLionProjects/diary/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update_disconnected.rule
