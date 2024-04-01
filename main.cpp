@@ -24,7 +24,7 @@ Component ModalComponent(std::function<void()> deleteEntry,
                             separator(),
                             inner | hcenter,
                     })                               //
-               | size(1WIDTH, GREATER_THAN, 30)  //
+               | size(WIDTH, GREATER_THAN, 30)  //
                | border;                        //
     });
     return component;
